@@ -1,0 +1,15 @@
+.Feedback__list {
+  margin-bottom: 20px;
+}
+
+.BtnItem {
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-transform: capitalize;
+  font-weight: 700;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.BtnItem:not(:last-child) {
+  margin-right: 10px;
+}
